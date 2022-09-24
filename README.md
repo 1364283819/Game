@@ -6,7 +6,10 @@ English | [简体中文](./README-zh_CN.md)
 
 ## Introduction
 
-- Game Life Restart
+- Game Life Restart.
+- Are you ready？
+- 游戏人生重启。
+- 准备好了吗？
 
 ## Usage
 
