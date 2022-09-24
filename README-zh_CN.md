@@ -6,7 +6,11 @@
 
 ## 简介
 
-- Game Life Restart
+- Game Life Restart.
+- Are you ready？
+- 游戏人生重启。
+- 准备好了吗？
+
 
 ## 使用
 
