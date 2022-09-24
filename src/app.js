@@ -56,7 +56,7 @@ class App{
         const indexPage = $(`
         <div id="main">
             <button id="achievement">成就</button>
-            <button id="specialthanks">特别感谢</button>
+            <button id="specialthanks">苏木特别感谢github提供免费平台</button>
             <button id="themeToggleBtn">黑</button>
             <div id="title">
                 人生重开模拟器<br>
