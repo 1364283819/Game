@@ -1,7 +1,7 @@
 # Life Restart
-# Are you ready？
+Are you ready？
 # 游戏人生重启。
-# 准备好了吗？
+准备好了吗？
 
 重来！然后,接下来是做得很好。[开始游戏](view/index.html)
 
